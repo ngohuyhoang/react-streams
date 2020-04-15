@@ -1,4 +1,2 @@
 # react-streams
-This is the react streams example
-
-Install node js and dependencies
+Refer to the Notes.docx file for more detail
