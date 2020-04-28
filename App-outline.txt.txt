@@ -1,0 +1,18 @@
+Folder : 
+Client : react source code
+dotNetBackEnd : dotNet source code
+
+
+App outline
+
+Front end : 
+- React
+- Redux
+- Axios
+- CRUD
+- Form validation
+
+Backend : IIS Express, localDB
+- Net core 2.2
+- EF core
+	+ On PMC : run Update-Database to create DB
